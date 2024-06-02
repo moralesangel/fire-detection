@@ -50,7 +50,9 @@ We will take 1600 images to train the model, and 400 to test it. A CNN is used i
 
 Here are some examples of the prediction in some test images:
 
-
+![Example 1](images/example1.png)
+![Example 2](images/example2.png)
+![Example 3](images/example3.png)
 
 ## MATLAB dependencies
 - Deep Learning Toolbox
