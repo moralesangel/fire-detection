@@ -48,7 +48,7 @@ We will take 1600 images to train the model, and 400 to test it. A CNN is used i
 
 ## Results and conclusion
 
-Here are some examples of the prediction in some test images:
+Here are some examples of the prediction in some test images, left one is the real image, second one the mask (solution) and third one the prediction given by the model:
 
 ![Example 1](images/example1.png)
 ![Example 2](images/example2.png)
