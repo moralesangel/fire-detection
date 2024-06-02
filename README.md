@@ -54,6 +54,8 @@ Here are some examples of the prediction in some test images, left one is the re
 ![Example 2](images/example2.png)
 ![Example 3](images/example3.png)
 
+As we can see the model classify better huge fires than small ones, which makes sense, even for a human is difficult to see the small fire in those images.
+
 ## MATLAB dependencies
 - Deep Learning Toolbox
 - Image Processing Toolbox
